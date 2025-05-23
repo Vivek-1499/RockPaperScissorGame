@@ -18,22 +18,12 @@ A simple and interactive Rock Paper Scissors game built using HTML, CSS, and Jav
 
 ## 📸 Screenshots
 
-![Light Mode](./images/lightimage.png)
-![Dark Mode](./images/darkimage.png)
+![Light Mode](images/lightimage.png)
+![Dark Mode](images/darkimage.png)
+
 ## 🎮 How to Play
 
 1. Choose Rock, Paper, or Scissors by clicking on the respective button.
 2. The computer randomly selects its move.
 3. The result is displayed and scores are updated.
 4. Play as many rounds as you like!
-
-## 📂 File Structure
-
-rock-paper-scissors/
-├── index.html         # Main HTML file
-├── style.css          # CSS styles
-├── script.js          # JavaScript game logic
-├── images/            # Folder for screenshots or assets
-│   ├── lightimage.png # Screenshot of light mode
-│   └── darkimage.png  # Screenshot of dark mode
-└── README.md          # Project documentation
