@@ -30,13 +30,10 @@ A simple and interactive Rock Paper Scissors game built using HTML, CSS, and Jav
 ## 📂 File Structure
 
 rock-paper-scissors/
-├── index.html # Main HTML file
-├── style.css # CSS styles
-├── script.js # JavaScript logic for the game
-├── images/ # Folder for screenshots or game assets
-│ ├── lightimage.png # Screenshot of light mode
-│ └── darkimage.png # Screenshot of dark mode
-└── README.md # Project documentation (this file)
-
-Copy
-Edit
+├── index.html         # Main HTML file
+├── style.css          # CSS styles
+├── script.js          # JavaScript game logic
+├── images/            # Folder for screenshots or assets
+│   ├── lightimage.png # Screenshot of light mode
+│   └── darkimage.png  # Screenshot of dark mode
+└── README.md          # Project documentation
