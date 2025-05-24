@@ -1,6 +1,10 @@
 # Rock Paper Scissors Game 🎮✊✋✌️
 
-A simple and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript. Play against the computer and test your luck and strategy!
+Crafted with attention to detail and a passion for clean design, this Rock Paper Scissors game offers a fun, interactive experience that brings a classic game to life in the browser. Whether you're here to test your strategy or just kill some time, this project combines simplicity with functionality to deliver a smooth gameplay experience.
+
+👉 **[Play the Game Live](https://Vivek-1499.github.io/RockPaperScissorGame)**
+
+---
 
 ## 🚀 Features
 
