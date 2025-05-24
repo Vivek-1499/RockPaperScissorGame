@@ -6,6 +6,15 @@ const msg = document.querySelector("#message");
 
 const userScoreDisplay = document.querySelector("#user-score");
 const compScoreDisplay = document.querySelector("#comp-score");
+
+// Light/Dark Mode Toggle
+const toggle = document.getElementById("mode-toggle");
+
+toggle.addEventListener("change", () => {
+    document.body.classList.toggle("dark", toggle.checked);
+});
+
+
 const compChoice = () => {
     const randChoice = Math.floor(Math.random() * 3);
     switch (randChoice){
@@ -53,7 +62,7 @@ const winner = (userWin, computerChoice, userChoice) => {
         userScoreDisplay.innerText = ++userScore;
     } else{
         console.log("Computer wins!");
-        msg.innerText = `You loose! ${computerChoice} beats your ${userChoice}`;
+        msg.innerText = `You lose! ${computerChoice} beats your ${userChoice}`;
         msg.style.backgroundColor = "red";
         compScoreDisplay.innerText = ++compScore;
     }

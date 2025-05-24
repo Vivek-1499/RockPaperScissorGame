@@ -19,6 +19,8 @@ A simple and interactive Rock Paper Scissors game built using HTML, CSS, and Jav
 ## 📸 Screenshots
 
 ![Light Mode](images/lightimage.png)
+
+
 ![Dark Mode](images/darkimage.png)
 
 ## 🎮 How to Play
